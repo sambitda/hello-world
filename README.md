@@ -1,3 +1,3 @@
 # hello-world
 A new repository
-hi i would like to complete this Specialization asap
+This is just the beginning
